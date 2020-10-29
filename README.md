@@ -4,7 +4,7 @@
 
 ## Overview
 
-LeetCode solutions to solved problem named by problem number on website
+LeetCode solutions to solved problems named by problem number on website
 
 ### Solved in C++
 
